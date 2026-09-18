@@ -33,7 +33,14 @@ Ejercicios con `if`, `if-else` y `switch`.
 | `calculadora.cpp` | Calculadora con menú (switch) |
 
 ### bucles/
-Ejercicios con `for` y `while` (en progreso).
+
+Ejercicios con estructuras de repetición (`for`, `while`, `do-while`).
+
+| Archivo | Descripción |
+|---|---|
+| `contador_regresivo.cpp` | Cuenta regresiva desde un número ingresado hasta 0 |
+| `suma_numeros.cpp` | Suma de los primeros N números usando un bucle |
+| `tablas_multiplicar.cpp` | Muestra la tabla de multiplicar de un número ingresado |
 
 ## 🛠️ Cómo compilar y ejecutar
 
