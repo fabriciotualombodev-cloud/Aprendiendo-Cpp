@@ -12,7 +12,7 @@ int main (){
     cout<<"1. Suma"<<endl;
     cout<<"2. Resta"<<endl;
     cout<<"3. Multiplicacion"<<endl;
-    cout<<"4. Disvision"<<endl;
+    cout<<"4. Division"<<endl;
     cin>>opc;
     switch (opc){
         case 1:
@@ -37,10 +37,14 @@ int main (){
         cout << "-------------------------" << endl;
         break;
         case 4:
-        resultado = numa/numb;
-        cout<<"El resultado de la division es: "<<endl;
-        cout<<"  "<<resultado<<endl;
-        cout << "-------------------------" << endl;
+        if (numb == 0){
+            cout<<"No se puede dividir entre 0"<<endl;
+        } else{
+            resultado = numa/numb;
+            cout<<"El resultado de la division es: "<<endl;
+            cout<<"  "<<resultado<<endl;
+            cout << "-------------------------" << endl;
+        }
         break;
         default:
         cout<<"Eliga una operacion correcta"<<endl;
