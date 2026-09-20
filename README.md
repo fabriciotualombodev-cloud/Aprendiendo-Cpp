@@ -42,6 +42,17 @@ Ejercicios con estructuras de repetición (`for`, `while`, `do-while`).
 | `suma_numeros.cpp` | Suma de los primeros N números usando un bucle |
 | `tablas_multiplicar.cpp` | Muestra la tabla de multiplicar de un número ingresado |
 
+### arrays/
+
+Ejercicios con arreglos (arrays) para almacenar y procesar múltiples valores.
+
+| Archivo | Descripción |
+|---|---|
+| `array_principal.cpp` | Ejercicio introductorio con arrays |
+| `numero_mayor.cpp` | Busca el número mayor dentro de un array |
+| `sistema_inventario.cpp` | Sistema de inventario usando arrays |
+| `suma_numeros.cpp` | Suma de los elementos de un array |
+
 ## 🛠️ Cómo compilar y ejecutar
 
 ```bash
