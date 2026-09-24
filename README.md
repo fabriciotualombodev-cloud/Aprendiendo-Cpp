@@ -10,6 +10,12 @@ y estructuras fundamentales.
 
 ## 📂 Contenido
 
+- `bucles/` - Ejercicios de bucles (for, while)
+- `condicionales/` - Ejercicios de if/else
+- `entrada-salida-operadores/` - Ejercicios de cin, cout y operadores
+- `arrays/` - Ejercicios de arrays
+- `funciones/` - Ejercicios de funciones
+
 ### entrada-salida-operadores/
 Ejercicios con `cout`, `cin` y operadores aritméticos básicos.
 
@@ -52,6 +58,16 @@ Ejercicios con arreglos (arrays) para almacenar y procesar múltiples valores.
 | `numero_mayor.cpp` | Busca el número mayor dentro de un array |
 | `sistema_inventario.cpp` | Sistema de inventario usando arrays |
 | `suma_numeros.cpp` | Suma de los elementos de un array |
+
+### ejercicios de funciones/
+
+Ejercicios con funciones y un Sistema de analisis de calificaciones.
+
+| Archivo | Descripción |
+|---|---|
+| `suma_de_numeros.cpp` | Función básica que suma dos números |
+| `array_funcion.cpp` / `funciones_con_arrays.cpp` | Funciones que reciben arrays (suma y mayor) |
+| `analizador_de_calificaciones.cpp` | Mini sistema de análisis de notas: promedio, mayor, menor, aprobados y reprobados, usando funciones modulares y validación de datos |
 
 ## 🛠️ Cómo compilar y ejecutar
 
