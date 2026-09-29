@@ -15,6 +15,8 @@ y estructuras fundamentales.
 - `entrada-salida-operadores/` - Ejercicios de cin, cout y operadores
 - `arrays/` - Ejercicios de arrays
 - `funciones/` - Ejercicios de funciones
+- `strings/` - Ejercicios de strings
+- `mini proyecto/` - Sistema de registro y login
 
 ### entrada-salida-operadores/
 Ejercicios con `cout`, `cin` y operadores aritméticos básicos.
