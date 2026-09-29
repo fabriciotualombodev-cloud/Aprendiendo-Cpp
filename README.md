@@ -69,6 +69,25 @@ Ejercicios con funciones y un Sistema de analisis de calificaciones.
 | `array_funcion.cpp` / `funciones_con_arrays.cpp` | Funciones que reciben arrays (suma y mayor) |
 | `analizador_de_calificaciones.cpp` | Mini sistema de análisis de notas: promedio, mayor, menor, aprobados y reprobados, usando funciones modulares y validación de datos |
 
+### ejercicios de Strings/
+
+Ejercicios de strings
+| Archivo | Descripción |
+|---|---| 
+| `nombre_completo.cpp` | Lectura de texto con getline, longitud y acceso a caracteres |
+| `palabra_palindroma.cpp` | Verifica si una palabra es un palindromo |
+| `contador_vocales.cpp` | Cuenta las vocales de una palabra o frase |
+| `validador_contrasena.cpp` | Valida que una contraseña cumpla reglas de seguridad basicas |
+
+### Mini Proyecto: Sistema de Registro y Login
+
+`sistema_de_usuarios.cpp` - Sistema con menu interactivo que permite:
+- Registrar usuarios con validacion de contraseña (longitud, numero, mayuscula)
+- Evitar usuarios duplicados
+- Iniciar sesion con un maximo de 3 intentos
+- Uso de funciones modulares (`buscarUsuario`, `validarContrasena`), arrays paralelos, `switch`, `do-while` y manejo de `bool` como banderas de control
+
+
 ## 🛠️ Cómo compilar y ejecutar
 
 ```bash
