@@ -17,6 +17,8 @@ y estructuras fundamentales.
 - `funciones/` - Ejercicios de funciones
 - `strings/` - Ejercicios de strings
 - `mini proyecto/` - Sistema de registro y login
+- `structs/` - Ejercicios de structs
+- `mini proyecto` - Gestor de tareas
 
 ### entrada-salida-operadores/
 Ejercicios con `cout`, `cin` y operadores aritméticos básicos.
@@ -88,6 +90,24 @@ Ejercicios de strings
 - Evitar usuarios duplicados
 - Iniciar sesion con un maximo de 3 intentos
 - Uso de funciones modulares (`buscarUsuario`, `validarContrasena`), arrays paralelos, `switch`, `do-while` y manejo de `bool` como banderas de control
+
+### ejercicios de Structs
+
+Ejercicios de structs y mini proyecto de gestor de tareas
+| Archivo | Descripción |
+|---|---|
+| `ficha_estudiantil.cpp` | Introduccion a structs: datos de un estudiante |
+| `panel_servidores.cpp` | Monitor de servidores con alertas segun uso de CPU, memoria y estado de conexion |
+| `tickets_de_asuntos.cpp` | Sistema de tickets de soporte con filtro de urgencias y conteo de resueltos/pendientes |
+
+### Mini Proyecto: Gestor de Tareas (estilo Trello)
+
+`organizador_de_tareas.cpp` - Sistema de gestion de tareas con menu interactivo que permite:
+- Crear tareas con titulo, descripcion y prioridad
+- Visualizar las tareas agrupadas por estado (Pendiente, En Progreso, Completada)
+- Cambiar el estado de una tarea existente
+- Filtrar tareas de alta prioridad
+- Uso de array de structs, paso por referencia (`int &cantidad`), funciones que traducen valores numericos a texto, `switch` y `do-while`
 
 
 ## 🛠️ Cómo compilar y ejecutar
