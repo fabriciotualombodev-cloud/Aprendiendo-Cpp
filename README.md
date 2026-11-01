@@ -19,6 +19,8 @@ y estructuras fundamentales.
 - `mini proyecto/` - Sistema de registro y login
 - `structs/` - Ejercicios de structs
 - `mini proyecto` - Gestor de tareas
+- `programación_orientada_a_objetos` - Ejercicios de POO
+- `mini proyecto` - Gestor de tareas con clases 
 
 ### entrada-salida-operadores/
 Ejercicios con `cout`, `cin` y operadores aritméticos básicos.
