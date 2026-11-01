@@ -109,6 +109,35 @@ Ejercicios de structs y mini proyecto de gestor de tareas
 - Filtrar tareas de alta prioridad
 - Uso de array de structs, paso por referencia (`int &cantidad`), funciones que traducen valores numericos a texto, `switch` y `do-while`
 
+### ejercicios de POO/
+
+Ejercicios de programación orientada a objetos
+
+| Archivo | Descripción |
+|---|---|
+| `libro.cpp` | Clase con lista de inicialización, getters con const y funciones que reciben objetos por referencia |
+| `notas_alumnos.cpp` | Constructor por defecto y sobrecarga, arrays de objetos y validación de notas |
+| `producto.cpp` | Getters y setters con validación, métodos const y venta con control de stock |
+| `cuenta_bancaria.cpp` | Lista de inicialización, depósitos y retiros con validación |
+
+### Mini Proyecto: Gestor de Tareas con Clases
+
+`gestor_de_tareas.cpp` - Sistema con menú interactivo que permite:
+
+- Crear tareas con título y prioridad validada (baja, media o alta)
+- Visualizar todas las tareas numeradas
+- Cambiar el estado de una tarea (Pendiente, En progreso, Terminada)
+- Filtrar tareas por prioridad
+- Uso de `class` con atributos privados, dos constructores (con parámetros y por defecto), lista de inicialización, métodos `const`, array de objetos, funciones que reciben objetos por referencia, `switch` y `do-while`
+
+### ejercicios de punteros/
+
+Ejercicios básicos de punteros
+
+| Archivo | Descripción |
+|---|---|
+| `ejemplo_basico.cpp` | Introduce los conceptos clave de los punteros en C++: direcciones de memoria, operadores de dirección (&) y desreferenciación (*) |
+| `intercambio.cpp` | Demuestra el intercambio de valores entre dos variables utilizando funciones con paso de parámetros por referencia (punteros). |
 
 ## 🛠️ Cómo compilar y ejecutar
 
